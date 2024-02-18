@@ -1,0 +1,9 @@
+//GET INPUT from the user of the card number
+//do while loop to make sure the input is valid
+//SAVE as a variable
+do luhn method to get whether card is valid or not
+add every other number starting from the second to last, multiply them all by 2
+add all the other numbers to the first number starting from the back
+if number % 10 = 0 then it is valid
+get lenth and first/second number to get which card it is
+print out amex visa mastercard or invalid
